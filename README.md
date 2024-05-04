@@ -76,13 +76,17 @@
  
 <br/>
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=maemreyo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+<!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=maemreyo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true) -->
 </div>
 
-## :zap: Recent Activity
+## ⚡ Connect with Me
+1. Medium: [https://matthew-ngo.medium.com/](https://matthew-ngo.medium.com/)
+2. dev.to: [https://dev.to/maemreyo](https://dev.to/maemreyo)
+3. Buy me a coffee: [https://buymeacoffee.com/maemreyo](https://buymeacoffee.com/maemreyo)
+<!--## :zap: Recent Activity -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/vczb/sagu-ui/issues/35) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+<!-- 1. 🗣 Commented on [#35](https://github.com/vczb/sagu-ui/issues/35) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 2. 💪 Opened PR [#67](https://github.com/vczb/sagu-ui/pull/67) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 3. 🗣 Commented on [#65](https://github.com/vczb/sagu-ui/issues/65) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 4. 🗣 Commented on [#66](https://github.com/vczb/sagu-ui/issues/66) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
@@ -90,7 +94,7 @@
 6. 🗣 Commented on [#35](https://github.com/vczb/sagu-ui/issues/35) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 7. 🗣 Commented on [#35](https://github.com/vczb/sagu-ui/issues/35) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 8. 🗣 Commented on [#2](https://github.com/vczb/sagu-ui/issues/2) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-9. 💪 Opened PR [#66](https://github.com/vczb/sagu-ui/pull/66) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+9. 💪 Opened PR [#66](https://github.com/vczb/sagu-ui/pull/66) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui) -->
 <!--END_SECTION:activity-->
 
 
